@@ -1,2 +1,1 @@
-# YingJianJianKong
-硬件监控
+通过psutil和tkinter写的简易硬件监控应用
